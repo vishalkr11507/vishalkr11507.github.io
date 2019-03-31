@@ -26,6 +26,7 @@ body a{
 }
 a:hover{
 	text-decoration:none;
+	text-color:#FFFFFF;
 }
 input[type="button"],input[type="submit"],.contact-form input[type="submit"]{
 	transition:0.5s all;
